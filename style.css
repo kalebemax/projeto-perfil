@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+img{
+    border-radius: 100px;
+  }
+
+  h2{
+    font-size: 18px;
+  }
+  body{
+    background-color: rgb(0, 0, 0); 
+    font-family: 'Roboto', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-align: center;
+  }
+  a{
+    background-color: rgb(0, 0, 128);
+    width: 100px;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  a:hover{
+      background-color: rgba(6, 231, 231, 0.562);;
+      text-decoration: underline;
+      text-align: justify;
+      
+    }
+
+  a:visited{
+    background-color: blueviolet;
+  }
+
+
